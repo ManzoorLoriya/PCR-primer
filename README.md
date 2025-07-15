@@ -22,13 +22,13 @@ A modern web application for designing PCR primers, checking their specificity, 
 
 - Python 3.8+
 - [pip](https://pip.pypa.io/en/stable/)
-- (Optional) [Redis](https://redis.io/) if using Celery for background jobs
+
 
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd Primer_PCR
+git clone https://github.com/ManzoorLoriya/PCR-primer.git
+cd PCR-primer
 ```
 
 ### Install Dependencies
